@@ -10,6 +10,8 @@ namespace DemoAppGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
+            Console.ReadLine();
         }
     }
 }
